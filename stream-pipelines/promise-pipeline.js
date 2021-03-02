@@ -15,8 +15,8 @@ const uppercase = new stream.Transform({
             );
             console.log("Pipeline succeeded.");
         }
-            run().catch((err) => {
-                console.error("Pipeline failed", err);
-            });
+        run().catch((err) => {
+            console.error("Pipeline failed", err);
+        });
     }
 })
