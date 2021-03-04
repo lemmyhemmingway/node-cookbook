@@ -1,0 +1,19 @@
+{
+  "name": "reverse-sentence",
+  "version": "1.0.0",
+  "description": "reverses a sentence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "url",
+    "url": "www.git.com"
+  },
+  "bugs": {
+    "url": "https://www.git.com"
+  },
+  "homepage": "google.com",
+  "author": "hmmm",
+  "license": "MIT"
+}
